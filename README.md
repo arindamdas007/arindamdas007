@@ -6,8 +6,6 @@
 ## 👨‍💻 About Me
 Data Analyst with Internsip experience and hands-on expertise in SQL, Power BI, Excel, and Python. Skilled in building KPI dashboards, performing data cleaning, and delivering insights to support business decisions.
 
-- ⚡ **A Content Writer Turned Full Time IT Professional**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
