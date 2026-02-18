@@ -20,5 +20,5 @@ Data Analyst | MIS Executive | BI Analyst roles
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arindam-das-analytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-s-68a0571b4" height="30" width="40" /></a>
-<a href="https://codebasics.io/portfolio/Arindam-Das" target="blank"><img align="center" src="https://images.codebasics.io/filters:format(webp)/fit-in/600x600/uploads/learner-portfolio/profile-images/582526/68e80efc5efca/5865f24400.svg" alt="naveen-s-68a0571b4" height="30" width="40" /></a>
+<a href="https://codebasics.io/portfolio/Arindam-Das" target="blank"><img align="center" src="https://images.codebasics.io/filters:format(webp)/fit-in/600x600/uploads/learner-portfolio/profile-images/582526/68e80efc5efca/5865f24400.jpg" alt="naveen-s-68a0571b4" height="30" width="40" /></a>
 </p>
