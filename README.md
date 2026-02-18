@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, I'm Arindam</h1>
 <h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
 
-- 🌱 **Turning raw data into actionable business insights**
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eb111e3a-9a53-4d52-bff1-590a5219d804" />
+ **Turning raw data into actionable business insights**
 
 - 📫 How to reach me **iarindamdas7@gmail.com**
 
