@@ -3,8 +3,8 @@
 
 <h4 align="center"><img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/eb111e3a-9a53-4d52-bff1-590a5219d804" /> Turning raw data into actionable business insights</h4>
 
-- ## 👨‍💻 About Me
-Data Analyst with 3+ years of professional experience and hands-on expertise in SQL, Power BI, Excel, and Python. Skilled in building KPI dashboards, performing data cleaning, and delivering insights to support business decisions.
+## 👨‍💻 About Me
+Data Analyst with Internsip experience and hands-on expertise in SQL, Power BI, Excel, and Python. Skilled in building KPI dashboards, performing data cleaning, and delivering insights to support business decisions.
 
 - ⚡ **A Content Writer Turned Full Time IT Professional**
 
