@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Arindam</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst | SQL | Power BI | Python | Excel</h3>
 
-- 🌱 **Data Analyst | SQL | Power BI | Python | Excel**
+- 🌱 **Turning raw data into actionable business insights**
 
 - 📫 How to reach me **iarindamdas7@gmail.com**
 
