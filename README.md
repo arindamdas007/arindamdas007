@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arindam-das-analytics" target="_blank">
-<img align="center" src="https://media.licdn.com/dms/image/v2/D5603AQE79edkibG2Hg/profile-displayphoto-scale_200_200/B56Zvpq0KGH4AY-/0/1769151874277?e=1773273600&v=beta&t=qf5c7ptbDZpW8AjKgS9kSqoReQ0JO24u4WBtQZjuD1A" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/imarindam07" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
