@@ -4,8 +4,9 @@
 <h4 align="center"><img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/eb111e3a-9a53-4d52-bff1-590a5219d804" /> Turning raw data into actionable business insights</h4>
 
 ## 👨‍💻 About Me
-Data Analyst with Internsip experience and hands-on expertise in SQL, Power BI, Excel, and Python. Skilled in building KPI dashboards, performing data cleaning, and delivering insights to support business decisions.
+Data Analyst with Internsip experience and hands-on expertise in SQL, Power BI, Excel, and Python. Skilled in building KPI dashboards, performing data cleaning, and delivering insights to support business decisions.<br><br>
 
+https://codebasics.io/portfolio/Arindam-Das
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
